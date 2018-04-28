@@ -7,4 +7,4 @@ export default function searchResults(state = [], action) {
     default:
       return state;
   }
-} 
+}   
